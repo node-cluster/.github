@@ -1,0 +1,1 @@
+![wordmark](./assets/wordmark.svg)
