@@ -1,1 +1,1 @@
-![wordmark](./assets/wordmark.svg)
+![wordmark](./assets/wordmark.png)
